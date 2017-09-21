@@ -1,0 +1,36 @@
+div.summary{
+   padding-right: 15px;
+    text-align: center;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+}
+
+div.intro{
+	text-align: center;
+	padding-top: 30px;
+}
+
+body {
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+table{
+  text-align: center;
+}
+
+input[type=text] {
+    border-color: #fab0fa;
+    border-radius: 20px;
+    background-color: #4D4D4D;
+    color: white;
+}
+input[type=number] {
+    border-radius: 20px;
+    border-color: #fab0fa;
+    background-color: #4D4D4D;
+    color: white;
+}
+
